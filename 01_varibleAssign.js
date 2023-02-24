@@ -14,7 +14,7 @@ var lastName = "Bhagat"
 console.log("lastName:",lastName);
 var age = "28"
 console.log("age:",age);
-var address = "Hinganghat"
+var address = "Hinganghat"  
 console.log("address:",address);
 var pinCode = "442301"
 console.log("pincode:",pinCode);
